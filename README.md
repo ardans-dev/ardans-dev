@@ -1,21 +1,21 @@
 ﻿<div align="center">
 
-  <!-- Header Animasi Typing SVG -->
+  <!-- Animated Typing SVG - Dark / Mysterious Ice Blue Theme -->
   <a href="https://github.com/ardans-dev">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi+there%2C+I'm+Rasika+Ahmad+Yardan+%F0%9F%91%8B;Aspiring+Developer+%26+Lifelong+Learner+%F0%9F%9A%80;Currently+Learning+Backend+%26+Cloud+Tech+%E2%98%81%EF%B8%8F;Building+Projects+%26+Coding+Every+Day+%F0%9F%92%BB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=620&lines=System.out.println(%22Hello%2C+World%22)%3B;Backend+Architecture+%26+Artificial+Intelligence+%F0%9F%A7%A0;Crafting+resilient+APIs+%26+exploring+neural+logic+%E2%9A%A1;Building+in+silence.+Letting+the+code+speak+%F0%9F%8C%91" alt="Typing SVG" />
   </a>
 
   <p align="center">
-    <i>"Satu baris kode setiap hari. Fokus belajar fundamental, konsisten berproses, dan haus ilmu baru."</i>
+    <i>"In the silence of the terminal, logic meets intelligence."</i>
   </p>
 
-  <!-- Social & Contact Badges -->
+  <!-- Sleek Minimalist Badges -->
   <p align="center">
     <a href="mailto:rasikaahmadyardan@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+      <img src="https://img.shields.io/badge/Encrypted_Mail-1E293B?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
     </a>
     <a href="https://github.com/ardans-dev">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
 
@@ -23,63 +23,63 @@
 
 ---
 
-### 🌱 Tentang Perjalanan Belajarku
+### 🌑 The Dossier
 
 ```yaml
-name: "Rasika Ahmad Yardan (Ardan)"
-status: "Junior Developer in the making 🚀"
-focus: "Mendalami fondasi Backend, Logika Pemrograman, & Dasar Cloud"
-learning_style: "Belajar sambil bikin project langsung (Learning by doing)"
-current_goal: "Membangun REST API yang rapi & memahami cara deploy aplikasi"
-open_for: "Diskusi, saran/code review, bimbingan mentor, & kolaborasi belajar bareng"
-motto: "Consistency beats perfection — 1% better every day."
+identity: "Ahmad Yardan Rasika (ardans-dev)"
+discipline: "Backend Engineering & Artificial Intelligence"
+status: "Deep in research, architecture, & model exploration"
+core_domains:
+  - "Resilient & High-Throughput Backend Systems"
+  - "Applied AI, LLM Integration & Machine Learning Pipelines"
+  - "Clean Architecture & Database Modeling"
+philosophy: "Quiet progress. Clean code. Relentless curiosity."
 ```
 
-- 🔭 **Sedang dipelajari:** Fondasi pemrograman (algoritma, struktur data), REST API, dan basis data.
-- 🎯 **Target saat ini:** Menyelesaikan proyek-proyek latihan dan konsisten membuat commit di GitHub.
-- 💬 **Tanya aku tentang:** Hal-hal yang sedang aku pelajari atau resource belajar pemrograman.
-- 📫 **Cara menghubungiku:** Kirim email ke [rasikaahmadyardan@gmail.com](mailto:rasikaahmadyardan@gmail.com).
+- 🌌 **Current Quest:** Mengawinkan kehandalan arsitektur **Backend** dengan kecerdasan komputasi **Artificial Intelligence**.
+- 🔬 **Exploration Area:** Menggali bagaimana model AI & agen cerdas diintegrasikan ke dalam microservices dan API berkecepatan tinggi.
+- ⚡ **Projects in Orbit:** Eksplorasi kecerdasan buatan seperti `studymind-ai` & `unimate-ai`.
+- 📬 **Transmission:** Siap berdiskusi seputar arsitektur sistem, riset AI, atau proyek open-source via [email](mailto:rasikaahmadyardan@gmail.com).
 
 ---
 
-### 🛠️ Tech Stack & Learning Roadmap
+### 🧬 Arsenal & Tech Stack
 
 <div align="center">
 
-#### 💻 Bahasa & Tool yang Sedang Aku Gunakan
+#### 🧠 Artificial Intelligence & Machine Learning
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OpenAI/LLMs](https://img.shields.io/badge/AI_Integrations-412991?style=flat-square&logo=openai&logoColor=white)
 
-#### 🗄️ Basis Data
+#### ⚡ Backend & Infrastructure
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-#### 🚀 Rencana / Sedang Dieksplorasi Berikutnya
-![Linux](https://img.shields.io/badge/Linux_Basics-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker_Basics-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cloud_Concepts-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-### 📊 Rekam Jejak Belajar di GitHub
+### 📡 Telemetry & GitHub Activity
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ardans-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Statistik GitHub" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardans-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bahasa yang Sering Digunakan" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ardans-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardans-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <!-- Streak Tracker: Sangat cocok untuk memotivasi komitmen coding tiap hari -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ardans-dev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 ---
 
 <div align="center">
-  <sub>💡 <i>Profil ini terus berkembang seiring bertambahnya ilmu dan baris kode yang kutulis.</i></sub>
+  <sub>🌑 <i>"Behind every intelligent algorithm lies an invisible, resilient architecture."</i></sub>
 </div>
