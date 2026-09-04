@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Animated Typing SVG - Dark / Mysterious Ice Blue Theme -->
   <a href="https://github.com/ardans-dev">
@@ -11,6 +11,9 @@
 
   <!-- Sleek Minimalist Badges -->
   <p align="center">
+    <a href="https://gentle-river-0f3a40500.3.azurestaticapps.net/" target="_blank">
+      <img src="https://img.shields.io/badge/Live_Portfolio-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Live Portfolio" />
+    </a>
     <a href="mailto:rasikaahmadyardan@gmail.com">
       <img src="https://img.shields.io/badge/Encrypted_Mail-1E293B?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
     </a>
@@ -36,9 +39,10 @@ core_domains:
 philosophy: "Quiet progress. Clean code. Relentless curiosity."
 ```
 
+- 🌐 **Live Cyber-Terminal & Portfolio:** [`gentle-river-0f3a40500.3.azurestaticapps.net`](https://gentle-river-0f3a40500.3.azurestaticapps.net/) *(Hosted on Azure Cloud)*
 - 🌌 **Current Quest:** Mengawinkan kehandalan arsitektur **Backend** dengan kecerdasan komputasi **Artificial Intelligence**.
 - 🔬 **Exploration Area:** Menggali bagaimana model AI & agen cerdas diintegrasikan ke dalam microservices dan API berkecepatan tinggi.
-- ⚡ **Projects in Orbit:** Eksplorasi kecerdasan buatan seperti `studymind-ai` & `unimate-ai`.
+- ⚡ **Projects in Orbit:** Eksplorasi kecerdasan buatan seperti `studymind-ai`, `unimate-ai`, dan `devforge`.
 - 📬 **Transmission:** Siap berdiskusi seputar arsitektur sistem, riset AI, atau proyek open-source via [email](mailto:rasikaahmadyardan@gmail.com).
 
 ---
@@ -60,6 +64,7 @@ philosophy: "Quiet progress. Clean code. Relentless curiosity."
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
